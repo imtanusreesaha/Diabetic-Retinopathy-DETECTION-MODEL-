@@ -41,4 +41,5 @@ Due to the large image file size, there are only 1000 files with labels and one 
 
 Originally, I had aimed to create a model that would be close to the SOTA, but clearly, with only 1000 images that's not possible.
 
-# AIM OF KERNEL: I will utilize transfer learning, oversampling, and progressive resizing on this small, imbalanced dataset. Given that many real-world datasets are also small and imbalanced, it will be interesting to see how far these techniques will take us.
+# AIM OF KERNEL:
+I will utilize transfer learning, oversampling, and progressive resizing on this small, imbalanced dataset. Given that many real-world datasets are also small and imbalanced, it will be interesting to see how far these techniques will take us.
