@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection 
+# Diabetic Retinopathy Detection Model
 
 ## 🔍 Overview
 Diabetic Retinopathy (DR) is a diabetes complication that damages the retina, potentially leading to blindness. This project uses deep learning techniques to detect and classify the severity of DR using fundus images. It focuses on scalable solutions even when dealing with resource and storage limitations.
