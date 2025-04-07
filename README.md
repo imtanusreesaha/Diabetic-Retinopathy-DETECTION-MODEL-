@@ -82,7 +82,10 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn scikit-image
 ## 📸 Sample Output
 ![image](https://github.com/user-attachments/assets/27e1f69f-d23b-4238-89b4-f35f9b408c72)
 # Working Model
+
+![image](https://github.com/user-attachments/assets/11f86a8d-2549-4463-ad10-542ff98bac92)
 ![image](https://github.com/user-attachments/assets/5c6903da-b334-4fdc-8dc3-e4811d1f60c1)
+
 
 ## 🔮 Future Improvements
 - Integrate Grad-CAM to visualize model attention.
