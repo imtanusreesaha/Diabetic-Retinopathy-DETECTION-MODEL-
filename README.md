@@ -60,7 +60,7 @@ The model classifies images into five DR stages:
 ├── Diabetic_Retinopathy_EYE_Detection.ipynb  # Main notebook
 ├── requirements.txt          # (optional) dependencies
 └── README.md
-=
+
 ```
 
 ## 🚀 Getting Started
