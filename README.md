@@ -102,7 +102,7 @@ This project is under the [MIT License](LICENSE).
 - TensorFlow, Keras, and the open-source ML community
 
 ## 👨‍💻 Author
-**Tanusree Saha & Aditya Akhouri**  
+**Tanusree Saha**  
 GitHub: Tanusree Saha(https://github.com/imtanusreesaha)  
 Email: imtanusreesahaa@gmail.com
 
